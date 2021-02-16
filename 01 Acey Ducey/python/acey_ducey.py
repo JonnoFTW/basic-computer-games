@@ -7,7 +7,6 @@ https://www.atariarchives.org/basicgames/showpage.php?page=2
 import random
 
 cards = {
-    1: "1",
     2: "2",
     3: "3",
     4: "4",
